@@ -25,4 +25,4 @@ License Copyright (c) 2018 terrydon wamboga
 
 
 ### the link to my website
-https://terrydon.github.io/pingpong/
+https://terrydon.github.io/dice-game/
